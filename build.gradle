@@ -10,6 +10,8 @@ plugins {
 
     // Apply the application to add support for building a CLI application
     id 'application'
+
+    id "com.gradle.build-scan" version "2.1"
 }
 
 repositories {

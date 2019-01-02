@@ -23,8 +23,8 @@ Steps to reproduce:
 >./gradlew build --scan
 >...
 >BUILD SUCCESSFUL in 1s
->10 actionable tasks: 5 executed, 5 up-to-date
-https://gradle.com/s/jgvac4sm4f57e
+>10 actionable tasks: 2 executed, 8 up-to-date
+https://gradle.com/s/o6tu7vtfnj7t6
 ```
 
-Task "compileKotlin" was not up-to-date: https://scans.gradle.com/s/jgvac4sm4f57e/timeline?outcomeFilter=SUCCESS&outcomeFilter=FAILED&task=ta44irykic3pc
+Task "compileKotlin" is up-to-date: https://scans.gradle.com/s/o6tu7vtfnj7t6/timeline?task=ta44irykic3pc
